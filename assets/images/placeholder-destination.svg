@@ -1,0 +1,18 @@
+<svg width="900" height="1200" viewBox="0 0 900 1200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="900" height="1200" fill="url(#paint0_linear)"/>
+  <rect x="66" y="70" width="768" height="1060" rx="10" fill="rgba(255,255,255,0.08)" stroke="rgba(255,255,255,0.38)" stroke-width="2"/>
+  <path d="M0 837C157 785 308 796 451 859C579 916 728 930 900 890V1200H0V837Z" fill="#E9D8AF"/>
+  <path d="M0 736C168 680 316 691 452 749C594 809 745 823 900 785V931C731 968 589 958 449 897C311 839 165 825 0 878V736Z" fill="#2F99B4"/>
+  <circle cx="728" cy="160" r="64" fill="#FFF4C6"/>
+  <path d="M236 602L357 419L482 602H236Z" fill="#F8FAFC"/>
+  <path d="M403 602L550 347L705 602H403Z" fill="#ECF4F8"/>
+  <text x="92" y="1024" fill="white" font-family="Arial, sans-serif" font-size="42" font-weight="700">Dummy Cover</text>
+  <text x="92" y="1076" fill="white" font-family="Arial, sans-serif" font-size="26">Replace this image URL later</text>
+  <defs>
+    <linearGradient id="paint0_linear" x1="450" y1="0" x2="450" y2="1200" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#8EC9DB"/>
+      <stop offset="0.54" stop-color="#5EA8BC"/>
+      <stop offset="1" stop-color="#D9C090"/>
+    </linearGradient>
+  </defs>
+</svg>

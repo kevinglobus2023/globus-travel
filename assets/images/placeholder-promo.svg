@@ -1,0 +1,17 @@
+<svg width="1200" height="860" viewBox="0 0 1200 860" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="860" fill="url(#paint0_linear)"/>
+  <circle cx="208" cy="166" r="60" fill="#FFF0C0"/>
+  <path d="M0 566C183 523 341 544 503 619C657 690 838 710 1200 628V860H0V566Z" fill="#E4CEA4"/>
+  <path d="M0 483C168 441 335 464 486 532C651 606 829 622 1200 548V658C842 728 651 706 490 632C322 554 166 534 0 578V483Z" fill="#2EB3C7"/>
+  <path d="M821 412C806 287 866 208 980 130" stroke="#4F8A53" stroke-width="18" stroke-linecap="round"/>
+  <path d="M956 201C905 196 866 178 835 148" stroke="#4F8A53" stroke-width="16" stroke-linecap="round"/>
+  <text x="74" y="734" fill="white" font-family="Arial, sans-serif" font-size="48" font-weight="700">Promotion Image</text>
+  <text x="74" y="790" fill="white" font-family="Arial, sans-serif" font-size="28">Replace with your own destination promo</text>
+  <defs>
+    <linearGradient id="paint0_linear" x1="600" y1="0" x2="600" y2="860" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#94D2E3"/>
+      <stop offset="0.56" stop-color="#57B0C4"/>
+      <stop offset="1" stop-color="#D6BE91"/>
+    </linearGradient>
+  </defs>
+</svg>

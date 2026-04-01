@@ -1,0 +1,18 @@
+<svg width="1000" height="1000" viewBox="0 0 1000 1000" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1000" height="1000" fill="url(#paint0_linear)"/>
+  <circle cx="774" cy="151" r="64" fill="#FFF1C5"/>
+  <path d="M0 684C173 634 333 650 481 716C644 789 815 804 1000 761V1000H0V684Z" fill="#E8D4AD"/>
+  <path d="M0 594C174 550 332 570 479 633C628 696 811 712 1000 674V785C815 826 633 812 481 745C327 677 170 658 0 704V594Z" fill="#4EC1D5"/>
+  <path d="M846 590C838 455 900 355 989 257" stroke="#4D874F" stroke-width="18" stroke-linecap="round"/>
+  <path d="M956 352C918 345 882 326 853 296" stroke="#4D874F" stroke-width="16" stroke-linecap="round"/>
+  <rect x="127" y="752" width="746" height="131" rx="8" fill="rgba(15, 27, 39, 0.22)"/>
+  <text x="168" y="812" fill="white" font-family="Arial, sans-serif" font-size="44" font-weight="700">Featured Resort Image</text>
+  <text x="168" y="858" fill="white" font-family="Arial, sans-serif" font-size="26">Replace with your preferred hotel or pool photo</text>
+  <defs>
+    <linearGradient id="paint0_linear" x1="500" y1="0" x2="500" y2="1000" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#A8DDE8"/>
+      <stop offset="0.56" stop-color="#6BC6D7"/>
+      <stop offset="1" stop-color="#E3CFAC"/>
+    </linearGradient>
+  </defs>
+</svg>

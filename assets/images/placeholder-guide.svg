@@ -1,0 +1,18 @@
+<svg width="800" height="1200" viewBox="0 0 800 1200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="1200" fill="url(#paint0_linear)"/>
+  <circle cx="640" cy="154" r="58" fill="#FFF2BF"/>
+  <path d="M0 855C144 798 283 807 400 864C519 922 651 938 800 909V1200H0V855Z" fill="#D4C093"/>
+  <path d="M0 748C142 691 275 702 394 759C523 821 647 835 800 798V941C656 972 517 959 392 894C279 834 139 822 0 879V748Z" fill="#2F7895"/>
+  <rect x="182" y="378" width="106" height="304" fill="#F8FAFC"/>
+  <rect x="310" y="306" width="126" height="376" fill="#F8FAFC"/>
+  <rect x="462" y="415" width="98" height="267" fill="#F8FAFC"/>
+  <text x="80" y="1038" fill="white" font-family="Arial, sans-serif" font-size="40" font-weight="700">Guide Cover</text>
+  <text x="80" y="1086" fill="white" font-family="Arial, sans-serif" font-size="24">Swap this with your own image</text>
+  <defs>
+    <linearGradient id="paint0_linear" x1="400" y1="0" x2="400" y2="1200" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#A9D0DE"/>
+      <stop offset="0.6" stop-color="#5D91A5"/>
+      <stop offset="1" stop-color="#C7B188"/>
+    </linearGradient>
+  </defs>
+</svg>
